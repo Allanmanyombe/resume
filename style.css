@@ -1,0 +1,1175 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@media only screen and (min-width: 1201px) {
+
+.green-icons{
+    width: 30px;
+    border-radius: 3px;
+  }
+.socials-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    column-gap: 18px;
+    margin-right: auto;
+    padding-left: 120px;
+  }
+
+.mnavbar{
+    display: none;
+  }
+
+ #name {
+    margin-top: -35%;
+    margin-left: -53%;
+    border-width: 5px;
+  }
+
+#allan-pic{
+  display: none;
+}  
+
+#referals {
+    text-align: start;
+  }
+
+.phone-icon {
+  width: 35px;
+  margin-right: 10px;
+  margin-bottom: -9px;
+}
+
+.email-icon {
+  width: 35px;
+  margin-right: 10px;
+  margin-bottom: -9px;
+}
+
+.facebook-icon {
+  width: 35px;
+  margin-right: 10px;
+  margin-bottom: -9px;
+}
+
+.whatsapp-icon {
+  width: 35px;
+  margin-right: 10px;
+  margin-bottom: -9px;
+}
+
+.contacts-items {
+  width: 300px;
+
+}
+
+.sub-contact-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.contacts-section {
+  border-radius: 25px;
+  margin-top: 25%;
+  width: 95%;
+  height: 200px;
+  padding: 25px 10px;
+  background-color: rgba(246, 252, 246);
+  margin-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+
+}
+
+a {
+  text-decoration: none;
+  color: green;
+  text-decoration: underline;
+
+}
+
+
+#allen-pic {
+  width: 35%;
+  margin-left: 50%;
+  margin-top: 6%;
+  border-radius: 50%;
+}
+
+.about-me-icon {
+  margin-top: 3%;
+  width: 100px;
+  height: 100px;
+}
+
+.education-icon {
+  width: 150px;
+}
+
+.referals-icon {
+  margin-top: 3%;
+  width: 100px;
+}
+
+.text-bubbles {
+  border-radius: 25px;
+  margin-top: 20%;
+  width: 75%;
+  padding: 25px 10px;
+  background-color: rgba(246, 252, 246);
+  margin-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.sub-text-bubbles {
+  padding: 40px 40px;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  color: black;
+  width: 80%;
+  background-color: rgba(246, 252, 246);
+  box-shadow: 0px 3px 10px rgba(0.5, 0.5, 0.5, 0.5);
+  border-radius: 15px;
+  text-align: center;
+
+
+}
+
+
+#title {
+  font-size: 40px;
+  color: #f0f0f0;
+  font-weight: 400;
+}
+
+#sub-title {
+  font-size: 30px;
+  color: #f0f0f0;
+  font-weight: 350;
+}
+
+
+h1 {
+  color: white;
+  font-size: 75px;
+}
+
+h3 {
+  color: black;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+.Home:hover {
+  color: hsl(120, 86%, 34%);
+}
+
+.footer {
+  width: 100%;
+  margin-top: 20%;
+  background-color: rgba(246, 252, 246);
+  text-align: center;
+  font-size: 15px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+  .green-icons{
+    width: 33.5px;
+    border-radius: 3px;
+  }
+  .socials-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    column-gap: 18px;
+    margin-right: auto;
+    padding-left: 85px;
+  }
+
+.mnavbar{
+    display: none;
+  }  
+#allan-pic{
+  display: none;
+}
+
+  #referals {
+    text-align: start;
+  }
+
+  .phone-icon {
+    width: 35px;
+    margin-right: 10px;
+    margin-bottom: -9px;
+  }
+  
+  .email-icon {
+    width: 35px;
+    margin-right: 10px;
+    margin-bottom: -9px;
+  }
+  
+  .facebook-icon {
+    width: 35px;
+    margin-right: 10px;
+    margin-bottom: -9px;
+  }
+  
+  .whatsapp-icon {
+    width: 35px;
+    margin-right: 10px;
+    margin-bottom: -9px;
+  }
+  
+  .contacts-items {
+    width: 300px;
+  
+  }
+  
+  .sub-contact-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .contacts-section {
+    border-radius: 25px;
+    margin-top: 25%;
+    width: 90%;
+    height: 200px;
+    padding: 25px 10px;
+    background-color: rgba(246, 252, 246);
+    margin-bottom: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  
+  
+  }
+  
+  a {
+    text-decoration: none;
+    color: green;
+    text-decoration: underline;
+  
+  }
+  
+  #name {
+    margin-top: -41%;
+    margin-left: -53%;
+    border-width: 5px;
+  }
+  
+  #allen-pic {
+    width: 39%;
+    margin-left: 50%;
+    margin-top: 9%;
+    border-radius: 50%;
+  }
+  
+  .about-me-icon {
+    margin-top: 3%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .education-icon {
+    width: 150px;
+  }
+  
+  .referals-icon {
+    margin-top: 3%;
+    width: 100px;
+  }
+  
+  .text-bubbles {
+    border-radius: 25px;
+    margin-top: 20%;
+    width: 85%;
+    padding: 25px 10px;
+    background-color: rgba(246, 252, 246);
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+  .sub-text-bubbles {
+    padding: 40px 40px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: black;
+    height: 600px;
+    width: 80%;
+    background-color: rgba(246, 252, 246);
+    box-shadow: 0px 3px 10px rgba(0.5, 0.5, 0.5, 0.5);
+    border-radius: 15px;
+    text-align: center;
+  
+  
+  }
+  
+  
+  #title {
+    font-size: 40px;
+    color: #f0f0f0;
+    font-weight: 400;
+  }
+  
+  #sub-title {
+    font-size: 30px;
+    color: #f0f0f0;
+    font-weight: 350;
+  }
+  
+  
+  h1 {
+    color: white;
+    font-size: 75px;
+  }
+  
+  h3 {
+    color: black;
+  }
+  
+  h6 {
+    font-size: 16px;
+  }
+  
+  h5 {
+    font-size: 17px;
+  }
+  
+  .Home:hover {
+    color: hsl(120, 86%, 34%);
+  }
+  
+  .footer {
+    width: 100%;
+    margin-top: 20%;
+    background-color: rgba(246, 252, 246);
+    text-align: center;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 2%;
+  }
+}
+
+@media only screen and (min-width:801px) and (max-width: 1024px) {
+  
+.green-icons{
+    width: 33.5px;
+    border-radius: 3px;
+  }
+.socials-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    column-gap: 18px;
+    margin-right: auto;
+    padding-left: 64px;
+  }
+
+#allan-pic{display: none;}
+
+.mnavbar{
+  display: none;
+}
+
+  #referals {
+    text-align: start;
+  }
+
+  .phone-icon {
+  width: 35px;
+  margin-right: 10px;
+  margin-bottom: -9px;
+}
+#contacts-item-email{
+  margin-left: 10px;
+}
+
+#contacts-item-wa{
+  margin-right: 125px;
+}
+
+.email-icon {
+  width: 35px;
+  margin-bottom: -9px;
+  margin-right: 10px;
+  
+}
+
+.facebook-icon {
+  width: 35px;
+  margin-right: 10px;
+  margin-bottom: -9px;
+}
+
+.whatsapp-icon {
+  width: 35px;
+  margin-right: 10px;
+  margin-bottom: -9px;
+}
+
+.contacts-items {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+}
+
+.sub-contact-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.contacts-section {
+  border-radius: 25px;
+  margin-top: 25%;
+  width: 95%;
+  padding: 25px 1px 50px;
+  background-color: rgba(246, 252, 246);
+  margin-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+
+}
+
+a {
+  text-decoration: none;
+  color: green;
+  text-decoration: underline;
+
+}
+
+#name {
+  margin-top: -42%;
+  margin-left: -53%;
+  border-width: 5px;
+}
+
+#allen-pic {
+  width: 42%;
+  margin-left: 50%;
+  margin-top: 12%;
+  border-radius: 50%;
+}
+
+.about-me-icon {
+  margin-top: 3%;
+  width: 100px;
+  height: 100px;
+}
+
+.education-icon {
+  width: 150px;
+}
+
+.referals-icon {
+  margin-top: 3%;
+  width: 100px;
+}
+
+.text-bubbles {
+  border-radius: 25px;
+  margin-top: 20%;
+  width: 85%;
+  padding: 25px 10px;
+  background-color: rgba(246, 252, 246);
+  margin-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.sub-text-bubbles {
+  width: 70%;
+  height: 600px;
+  padding: 40px 40px;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  color: black;
+  background-color: rgba(246, 252, 246);
+  box-shadow: 0px 3px 10px rgba(0.5, 0.5, 0.5, 0.5);
+  border-radius: 15px;
+  text-align: center;
+
+
+}
+
+
+#title {
+  font-size: 40px;
+  color: #f0f0f0;
+  font-weight: 400;
+}
+
+#sub-title {
+  font-size: 30px;
+  color: #f0f0f0;
+  font-weight: 350;
+}
+
+h1 {
+  color: white;
+  font-size: 65px;
+}
+
+h3 {
+  color: black;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+.Home:hover {
+  color: hsl(120, 86%, 34%);
+}
+
+.footer {
+  width: 100%;
+  margin-top: 20%;
+  background-color: rgba(246, 252, 246);
+  text-align: center;
+  font-size: 15px;
+  padding-top: 20px;
+  padding-bottom: 2%;
+}
+}
+
+@media only screen and (min-width: 481px) and (max-width:800px) {
+  body {
+    background: url('icons & images/wallpaperflare.com_wallpaper.jpg');
+    background-position: center;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+  }
+
+  .green-icons{
+    width: 33.5px;
+    border-radius: 3px;
+  }
+
+  .socials-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    column-gap: 18px;
+    margin-bottom: 45%;
+    margin-right: auto;
+    padding-left: 30px;
+  }
+
+  .call-icon{
+    margin-left: -44%;
+  }
+  .email-logo{
+    margin-left: -10%;
+  }
+  .fb-logo{
+    margin-left: -44%;
+  }
+
+  .whatsapp-logo{
+    margin-left: -44%;
+  }
+
+  .phone-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .email-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .facebook-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .whatsapp-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .contacts-items {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  .contacts-section {
+    border-radius: 25px;
+    margin-top: 25%;
+    width: 90%;
+    background-color: rgba(246, 252, 246);
+    margin-bottom: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  
+  
+  }
+  
+  a {
+    text-decoration: none;
+    color: green;
+    text-decoration: underline;
+  
+  }
+  
+  #name {
+    margin-top: 19%;
+    margin-left: -90%;
+    width: 5px;
+  }
+
+  #allen-pic{display: none;}
+
+  #allan-pic {
+    width: 50%;
+    border-radius: 50%;
+    margin-bottom: 30%;
+  }
+  
+  .about-me-icon {
+    margin-top: 3%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .education-icon {
+    width: 150px;
+  }
+  
+  .referals-icon {
+    margin-top: 3%;
+    width: 100px;
+  }
+  
+  .text-bubbles {
+    border-radius: 25px;
+    margin-top: 10%;
+    width: 85%;
+    padding: 25px 10px;
+    background-color: rgba(246, 252, 246);
+    margin-bottom: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  .sub-text-bubbles {
+    padding: 40px 40px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: black;
+    background-color: rgba(246, 252, 246);
+    box-shadow: 0px 3px 10px rgba(0.5, 0.5, 0.5, 0.5);
+    border-radius: 15px;
+    text-align: center;
+  
+   
+  }
+  
+  #referals {
+    text-align: start;
+  }
+
+
+  #title {
+    font-size: 40px;
+    color: #f0f0f0;
+    font-weight: 400;
+  }
+  
+  
+  h1 {
+    color: white;
+    font-size: 60px;
+  }
+  
+  h3 {
+    color: black;
+  }
+  
+  h6 {
+    font-size: 16px;
+  }
+  
+  h5 {
+    font-size: 17px;
+  }
+  
+  .Home:hover {
+    color: hsl(120, 86%, 34%);
+  }
+  
+  .footer {
+    width: 100%;
+    margin-top: 20%;
+    background-color: rgba(246, 252, 246);
+    text-align: center;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+  }
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+  body {
+    background: url('icons & images/wallpaperflare.com_wallpaper.jpg');
+    background-position: center;
+    background-attachment:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+  }
+
+  .green-icons{
+    width: 33.5px;
+    border-radius: 3px;
+  }
+
+  .socials-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    column-gap: 18px;
+    margin-bottom: 45%;
+    margin-right: auto;
+    padding-left: 22px;
+  }
+
+  .call-icon{
+    margin-left: -44%;
+  }
+  .email-logo{
+    margin-left: -10%;
+  }
+  .fb-logo{
+    margin-left: -44%;
+  }
+
+  .whatsapp-logo{
+    margin-left: -44%;
+  }
+
+  .phone-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .email-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .facebook-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .whatsapp-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .contacts-items {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  .contacts-section {
+    border-radius: 25px;
+    margin-top: 25%;
+    width: 90%;
+    background-color: rgba(246, 252, 246);
+    margin-bottom: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  
+  
+  }
+  
+  a {
+    text-decoration: none;
+    color: green;
+    text-decoration: underline;
+  
+  }
+  
+  #name {
+    margin-top: 30%;
+    margin-left: -90%;
+    width: 4px;
+  }
+
+  #allen-pic{display: none;}
+
+  #allan-pic {
+    width: 60%;
+    border-radius: 50%;
+    margin-bottom: 30%;
+  }
+  
+  .about-me-icon {
+    margin-top: 3%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .education-icon {
+    width: 150px;
+  }
+  
+  .referals-icon {
+    margin-top: 3%;
+    width: 100px;
+  }
+  
+  .text-bubbles {
+    border-radius: 25px;
+    margin-top: 20%;
+    width: 85%;
+    padding: 25px 10px;
+    background-color: rgba(246, 252, 246);
+    margin-bottom: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  .sub-text-bubbles {
+    padding: 40px 40px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: black;
+    background-color: rgba(246, 252, 246);
+    box-shadow: 0px 3px 10px rgba(0.5, 0.5, 0.5, 0.5);
+    border-radius: 15px;
+    text-align: center;
+  
+   
+  }
+  
+  #referals {
+    text-align: start;
+  }
+
+
+  #title {
+    font-size: 40px;
+    color: #f0f0f0;
+    font-weight: 400;
+  }
+  
+  
+  h1 {
+    color: white;
+    font-size: 45px;
+  }
+  
+  h3 {
+    color: black;
+  }
+  
+  h6 {
+    font-size: 16px;
+  }
+  
+  h5 {
+    font-size: 17px;
+  }
+  
+  .Home:hover {
+    color: hsl(120, 86%, 34%);
+  }
+  
+  .footer {
+    width: 100%;
+    margin-top: 20%;
+    background-color: rgba(246, 252, 246);
+    text-align: center;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+  }
+}
+
+@media only screen and (max-width:320px) {
+
+  body {
+    background: url('icons & images/wallpaperflare.com_wallpaper.jpg');
+    background-position: center;
+    background-attachment:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+  }
+
+  .green-icons{
+    width: 33.5px;
+    border-radius: 3px;
+
+    
+  }
+
+  .socials-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    column-gap: 18px;
+    margin-bottom: 45%;
+    margin-right: auto;
+    padding-left: 22px;
+  }
+
+  .call-icon{
+    margin-left: -44%;
+  }
+  .email-logo{
+    margin-left: -10%;
+  }
+  .fb-logo{
+    margin-left: -44%;
+  }
+
+  .whatsapp-logo{
+    margin-left: -44%;
+  }
+
+  .phone-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .email-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .facebook-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .whatsapp-icon {
+    width: 35px;
+    margin-right: 10px;
+  }
+  
+  .contacts-items {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  .contacts-section {
+    border-radius: 25px;
+    margin-top: 25%;
+    width: 90%;
+    background-color: rgba(246, 252, 246);
+    margin-bottom: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  
+  
+  }
+  
+  a {
+    text-decoration: none;
+    color: green;
+    text-decoration: underline;
+  
+  }
+  
+  #name {
+    margin-top: 30%;
+    margin-left: -90%;
+    width: 4px;
+  }
+
+  #allen-pic{display: none;}
+
+  #allan-pic {
+    width: 90%;
+    border-radius: 50%;
+    margin-bottom: 30%;
+  }
+  
+  .about-me-icon {
+    margin-top: 3%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .education-icon {
+    width: 150px;
+  }
+  
+  .referals-icon {
+    margin-top: 3%;
+    width: 100px;
+  }
+  
+  .text-bubbles {
+    border-radius: 25px;
+    margin-top: 20%;
+    width: 85%;
+    padding: 25px 10px;
+    background-color: rgba(246, 252, 246);
+    margin-bottom: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  .sub-text-bubbles {
+    padding: 40px 40px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    color: black;
+    background-color: rgba(246, 252, 246);
+    box-shadow: 0px 3px 10px rgba(0.5, 0.5, 0.5, 0.5);
+    border-radius: 15px;
+    text-align: center;
+  
+   
+  }
+  
+  #referals {
+    text-align: start;
+  }
+
+
+  #title {
+    font-size: 40px;
+    color: #f0f0f0;
+    font-weight: 400;
+  }
+  
+  
+  h1 {
+    color: white;
+    font-size: 45px;
+  }
+  
+  h3 {
+    color: black;
+  }
+  
+  h6 {
+    font-size: 16px;
+  }
+  
+  h5 {
+    font-size: 17px;
+  }
+  
+  .Home:hover {
+    color: hsl(120, 86%, 34%);
+  }
+  
+  .footer {
+    width: 100%;
+    margin-top: 20%;
+    background-color: rgba(246, 252, 246);
+    text-align: center;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+  }
+
+}
+
+/*-------------------------xxxxxxxxxxxx---------------------------------------*/
+
+
+body {
+  background: url('icons & images/wallpaperflare.com_wallpaper.jpg');
+  background-color: rgb(0, 128, 0);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+nav {
+  background-color: white;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+nav li {
+  height: 50px;
+}
+
+nav a {
+  height: 100%;
+  padding: 0 20px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: black;
+}
